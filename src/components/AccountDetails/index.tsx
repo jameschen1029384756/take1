@@ -10,7 +10,7 @@ import Copy from './Copy';
 import Transaction from './Transaction';
 
 import { SUPPORTED_WALLETS } from '../../constants';
-import { ReactComponent as Close } from '../../assets/images/x.svg';
+import { ReactComponent as Close } from '../../assets/images/walletConnectIcon.svg';
 import { getEtherscanLink } from '../../utils';
 import {
   injected,
@@ -231,7 +231,7 @@ export default function AccountDetails({
   openOptions,
 }: AccountDetailsProps) {
   const { chainId, account, connector } = useActiveWeb3React();
-  const theme = useContext(ThemeContext);
+ const theme = useContext(ThemeContext); 
   const dispatch = useDispatch<AppDispatch>();
 
   function formatConnectorName() {
