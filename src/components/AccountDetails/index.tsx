@@ -1,4 +1,4 @@
-import React, { useCallback, useContext } from 'react';
+import React, { useCallback } from 'react';
 import { useDispatch } from 'react-redux';
 import styled, { ThemeContext } from 'styled-components';
 import { useActiveWeb3React } from '../../hooks';
