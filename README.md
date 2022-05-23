@@ -1,7 +1,5 @@
-# CoolSwap template
+# Bruhcrypto Finance
 
-### Rinkeby
+### Attempt TakeOne
 
-- Factory: 0x9b16a862127f130ed7d13e2630462647cb5eb8c8
-- Router: 0x7f7f12ba2cfb5c5e143191486c7fd93ebf9d18a2
-- Pair hash: 0x2f211982b095720b3c15b915eb6422e033e6a52128f910a70c0b0981509a1c85
+Mixed Uniswap v3 files with Bruhcrypto Files, so we messed up on the main one. This is the 5th repository and hopefully the last.
